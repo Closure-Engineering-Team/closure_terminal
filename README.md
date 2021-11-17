@@ -1,9 +1,9 @@
 # 可露希尔运算终端
 ## 基建可视化最大效益排班工具
-本项目开始设计，欢迎大家点上**star** 关注期待一波
-本仓库为项目主要仓库，另外[closure_terminal_core](https://github.com/Closure-Engineering-Team/closure_terminal_core)实现该工具核心算法
-开发主要人员为大学生，还在不断学习rust及框架，课业繁忙，开发进度会极为缓慢，请多包含。等到学得差不多，一定会开始进度。
-第一个发布版本打算做干员组合推荐。
+- 本项目开始设计，欢迎大家点上**star** 关注期待一波
+- 本仓库为项目主要仓库，另外[closure_terminal_core](https://github.com/Closure-Engineering-Team/closure_terminal_core)实现该工具核心算法
+- 开发主要人员为大学生，还在不断学习rust及框架，课业繁忙，开发进度会极为缓慢，请多包涵。等到学得差不多，一定会开始进度。
+- 第一个发布版本打算做干员组合推荐。
 
 ## 基建资料文档
 [基建资料文档](https://github.com/Closure-Engineering-Team/closure_terminal/wiki/%E5%9F%BA%E5%BB%BA%E8%B5%84%E6%96%99)
